@@ -92,5 +92,5 @@ Ensure the following variables are set in your environment:
 - **Media Uploads**: Allow image and video sharing in posts.
 
 ## 🙏 Acknowledgments
-Special thanks to **Material-UI** for its comprehensive component library and **MongoDB Atlas** for reliable cloud database solutions.
+<sub>Special thanks to **Material-UI** for its comprehensive component library and **MongoDB Atlas** for reliable cloud database solutions.</sub>
 =======
