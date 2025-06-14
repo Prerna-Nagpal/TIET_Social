@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 📚 Somaiya Social – The College Connecting Website
 
@@ -110,3 +111,4 @@ REAL-TIME MESSAGING:
 
 ## 🙏 Acknowledgments
 Special thanks to **Material-UI** for its comprehensive component library and **MongoDB Atlas** for reliable cloud database solutions.
+=======
