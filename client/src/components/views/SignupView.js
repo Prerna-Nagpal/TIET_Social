@@ -4,7 +4,7 @@ import {
   Stack,
   TextField,
   Typography,
-  Link as MuiLink,
+  //Link as MuiLink,
 } from "@mui/material";
 import { Box } from "@mui/system";
 import React, { useState } from "react";
@@ -14,10 +14,10 @@ import { useNavigate, Link } from "react-router-dom";
 import Copyright from "../Copyright";
 import ErrorAlert from "../ErrorAlert";
 import { isLength, isEmail, contains } from "validator";
-import { useTheme } from "@emotion/react";
+//import { useTheme } from "@emotion/react";
 
 const SignupView = () => {
-  const theme = useTheme();
+  // const theme = useTheme();
   const navigate = useNavigate();
   const [serverError, setServerError] = useState("");
   const [errors, setErrors] = useState({});
@@ -66,7 +66,9 @@ const SignupView = () => {
     if (!isEmail(formData.email)) {
       errors.email = "Must be a valid email address";
     }
-
+    else if (!formData.email.toLowerCase().endsWith("@thapar.edu")) {
+      errors.email = "Email must end with @thapar.edu";
+    }
     setErrors(errors);
 
     return errors;
@@ -106,7 +108,7 @@ const SignupView = () => {
           >
             TIET Social
           </Typography>
-          
+
           <Typography
             variant="h4"
             component="h2"
@@ -176,7 +178,7 @@ const SignupView = () => {
             </Typography>
 
             <ErrorAlert error={serverError} />
-            
+
             <Button
               type="submit"
               fullWidth
