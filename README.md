@@ -11,8 +11,6 @@
 - [Installation](#installation)
 - [Environment Variables](#environment-variables)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributors](#contributors)
 - [Future Enhancements](#future-enhancements)
 
 ## 🛠️ Tech Stack
