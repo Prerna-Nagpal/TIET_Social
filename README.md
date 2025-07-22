@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 
-# 📚 Somaiya Social – The College Connecting Website
+
+# TIET Social – The College Networking Website
 
 ## 🔍 Project Overview
-**Somaiya Social** is an exclusive platform designed for college students to engage, collaborate, and share ideas. It offers a user-friendly interface and a secure space for students to build their network and foster a community of mutual interests.
+**TIET Social** is an exclusive platform designed for college students to engage, collaborate, and share ideas. It offers a user-friendly interface and a secure space for students to build their network and foster a community of mutual interests.
 
 ## 📖 Table of Contents
 - [Tech Stack](#tech-stack)
@@ -11,8 +11,6 @@
 - [Installation](#installation)
 - [Environment Variables](#environment-variables)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributors](#contributors)
 - [Future Enhancements](#future-enhancements)
 
 ## 🛠️ Tech Stack
@@ -41,8 +39,7 @@
 ### Steps to get started:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mourvijoshi/somaiya-social.git
-   cd somaiya-social
+   git clone https://github.com/Prerna-Nagpal/TIET_Social.git
    ```
 
 2. **Install dependencies**:
@@ -88,21 +85,6 @@ Ensure the following variables are set in your environment:
 3. **Open in browser**:
    Navigate to `http://localhost:3000`.
 
-## 📸 Screenshots
-LOGIN PAGE:
-![image](https://github.com/user-attachments/assets/75dd644f-8955-415c-83d6-2180d548dfd3)
-
-HOME PAGE:
-![image](https://github.com/user-attachments/assets/8816686f-394c-4bef-9a18-bbeef59ab860)
-
-REAL-TIME MESSAGING:
-![image](https://github.com/user-attachments/assets/de90d6d7-cc3b-40a6-b336-0feee0f7275b)
-
-
-## 🤝 Contributors
-- **Mourvi Joshi** – Backend development, API integration, real-time chat functionality.
-- **Adhiraj Patole** – Frontend development, UI/UX design, React components.
-
 ## 🚀 Future Enhancements
 - **Push Notifications**: Notify users of new interactions.
 - **Dark Mode**: Include theme toggling between light and dark modes.
@@ -110,5 +92,5 @@ REAL-TIME MESSAGING:
 - **Media Uploads**: Allow image and video sharing in posts.
 
 ## 🙏 Acknowledgments
-Special thanks to **Material-UI** for its comprehensive component library and **MongoDB Atlas** for reliable cloud database solutions.
+<sub>Special thanks to **Material-UI** for its comprehensive component library and **MongoDB Atlas** for reliable cloud database solutions.</sub>
 =======
