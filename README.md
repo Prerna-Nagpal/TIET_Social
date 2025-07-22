@@ -34,6 +34,22 @@
 - **Post Creation and Engagement**: Users can share posts, comment, and interact with content.
 - **Profile Management**: Personalized user profiles.
 - **Profanity Filter**: Integrated filter to maintain respectful content.
+## 🖼️ App Screenshots
+
+### 🏠 Home Page
+![Home](./images/Home.png)
+
+### 🔐 Login Page
+![Login](./images/Login.png)
+
+### 📝 Signup Page
+![Signup](./images/Signup.png)
+
+### 🗣️ Chatbot Feature
+![Chatbot](./images/Chatbot.jpeg)
+
+### 📬 Post Interface
+![Post](./images/Post.jpeg)
 
 ## 🚀 Installation
 ### Steps to get started:
